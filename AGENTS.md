@@ -1,7 +1,7 @@
 # AGENTS.md
 
 This file provides guidance to coding agents (Claude Code, Codex, Copilot and others)
-when working with code in this repository. `CLAUDE.md` imports it: edit this file only.
+when working with code in this repository.
 
 ## Build & Run
 
